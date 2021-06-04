@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Yeji 👋🏻 👨🏻‍💻
+- 👋 Hi, I'm Yeji  👨🏻‍💻
 - 👀 I’m interested in databases, operating systems, program languages and build systems.
 - 🌱 I’m currently learning Unity and Python
 

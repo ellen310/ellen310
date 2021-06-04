@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=cylinder=auto&height=300&section=header&text=Hi there, I'm Yeji !%20render&fontSize=90)
+
+
 - 👋 Hi, I'm Yeji  👨🏻‍💻
 - 👀 I’m interested in databases, operating systems, program languages and build systems.
 - 🌱 I’m currently learning Unity and Python

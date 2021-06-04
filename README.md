@@ -2,7 +2,7 @@
 
 
 # 👋 Hi, I'm Yeji  👨🏻‍💻
-- 👀 I’m interested in databases, operating systems, program languages and build systems.
+- 👀 I’m interested in operating systems, databases, program languages and build systems.
 - 🌱 I’m currently learning Unity and Python
 
 <!---

@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=20&section=header&text=)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=15&section=header&text=)
 
 
 # 👋 Hi, I'm Yeji  👨🏻‍💻
@@ -15,4 +15,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellen310)](https://github.com/anuraghazra/github-readme-stats)
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=20&section=header&text=)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=15&section=header&text=)

@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Yeji  👨🏻‍💻
 - 👀 I’m interested in operating systems, Game Engine.
-- 🌱 I’m currently learning Unity and Python.
+- 🌱 I’m currently learning Unity.
 
 <!---
 ellen310/ellen310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

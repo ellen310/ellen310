@@ -2,7 +2,7 @@
 
 
 # 👋 Hi, I'm Yeji  👨🏻‍💻
-- 👀 I’m interested in operating systems, Game Engine.
+- 👀 I’m interested in operating systems Game Engine.
 - 🌱 I’m currently learning Unity.
 
 <!---

@@ -5,7 +5,7 @@
 - 👀 I’m interested in operating systems and Game Engine.
 - 🌱 I’m currently learning Unity.
 
-<!--뱃지들 넣기
+<!--뱃지
 # Skills
 --->
 

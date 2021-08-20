@@ -1,9 +1,10 @@
 <!--![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=15&section=header&text=)-->
 
 
-# 👋 Hi, I'm Yeji!  👨🏻‍💻
+# 👋 Hi, I'm Yeji!  👨🏻‍💻 https://crayeji.tistory.com/
 - 👀 I’m interested in operating systems and Game Engine.
 - 🌱 I’m currently learning Unity.
+
 
 <!--뱃지
 # Skills

@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Unity.
 
 
-<!--뱃지
+<!--
 # Skills
 --->
 

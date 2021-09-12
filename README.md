@@ -9,7 +9,7 @@
 
 
 <!--
-# Skills
+# Skills 뱃지
 --->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellen310)](https://github.com/anuraghazra/github-readme-stats)

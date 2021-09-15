@@ -3,9 +3,9 @@
 
 # 👋 Hi, I'm Yeji!  👨🏻‍💻 
 
-- https://crayeji.tistory.com/
 - 👀 I’m interested in operating systems and Game Engine.
 - 🌱 I’m currently learning Unity.
+- https://crayeji.tistory.com/
 
 
 <!--

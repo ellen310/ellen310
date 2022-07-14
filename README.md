@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Yeji! 
 
-- 👀 I’m interested in operating systems and Game Engine.
+- 👀 I’m interested in AR, VR Development
 - 🌱 I’m currently learning Unity.
 - https://crayeji.tistory.com/
 

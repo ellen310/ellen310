@@ -13,8 +13,8 @@
 | ------ | ------ | ------ | ------ |
 | 🏫Education | Mar, 2019 ~ | Department of Software, Information and Communication Engineering | Sangmyung University |
 | Mentoring & Prize | Mar, 2020 ~ June 2020 | C Language Mentoring to freshmen and Grand Prize in the achievement contest | Sangmyung University |
-| Project & Prize | Jan, 2021 ~ Nov, 2021 | AR, VR scientific experiment Development | IITP, Hanium Award 2021 |
-| Project for Research | May, 2022 ~ Aug, 2022 | AR scientific experiment Development for highschool students | Soongeui Girl's high School, Korea National University of Education |
+| Project & Prize | Jan, 2021 ~ Nov, 2021 | AR, VR scientific experiment development | IITP, Hanium Award 2021 |
+| Project for Research | May, 2022 ~ Aug, 2022 | AR scientific experiment development for highschool students | Soongeui Girl's high School, Korea National University of Education |
 | Studying abroad | Aug, 2022 ~ Dec, 2022 | Exchange Student in the United States | University of Central Missouri |
 | Project | Sep, 2022 ~ | Interactive Movie Development with Digital Content and Design Team | Sangmyung University |
 

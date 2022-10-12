@@ -1,16 +1,37 @@
 <!--![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=15&section=header&text=)-->
 
 
-# 👋 Hi, I'm Yeji! 
+# 🌞 Hey, It's Yeji!
 
-- 👀 I’m interested in AR, VR Development
-- 🌱 I’m currently learning Unity.
-- https://crayeji.tistory.com/
+- 👀 I’m interested in AR, VR Development and Game Development
+- 📖 BLOG: https://crayeji.tistory.com/
+- ✉️ Contact: ellen10735@gmail.com
 
+
+
+<a href="https://www.instagram.com/yejiheo310/">
+    <img 
+        src="http://img.shields.io/badge/222222?style=flat&logo=Instagram&link=https://www.instagram.com/yejiheo310/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>
+</a>
+
+
+ 
+ # 💙 Career
+| Type | Date | Contents | Organization |
+| ------ | ------ | ------ | ------ |
+| Education | Mar, 2019 ~ | Department of Software, Information and Communication Engineering | Sangmyung University |
+| Mentoring & Prize | Mar, 2020 ~ June 2020 | C Language Mentoring to freshmen and Grand Prize in the achievement contest | Sangmyung University |
+| Project & Prize | Jan, 2021 ~ Nov, 2021 | AR, VR scientific experiment Development | IITP, Hanium Award 2021 |
+| Project for Research | May, 2022 ~ Aug, 2022 | AR scientific experiment Development for highschool students | Soongeui Girl's high School, Korea National University of Education |
+| Studying abroad | Aug, 2022 ~ Dec, 2022 | Exchange Student in the United States | University of Central Missouri |
+| Project | Sep, 2022 ~ | Interactive Movie Development with Digital Content and Design Team | Sangmyung University |
 
 <!--
 # Skills 뱃지
 --->
 
+# 💚
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellen310)](https://github.com/anuraghazra/github-readme-stats)
 

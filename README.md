@@ -8,7 +8,7 @@
 - ✉️ Contacts: crayeji@gmail.com
 
  
- # 💙 Career
+ # 💚 Career
 | Type | Date | Contents | Organization |
 | ------ | ------ | ------ | ------ |
 | 🏫Education | Mar, 2019 ~ | Department of Software & Information and Communication Engineering | Sangmyung University |
@@ -22,6 +22,10 @@
 # Skills 뱃지
 --->
 
-# 💚
+# 💙
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellen310)](https://github.com/anuraghazra/github-readme-stats)
+
+
+# 💛
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ellen310)](https://solved.ac/ellen310/)
 

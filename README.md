@@ -22,10 +22,10 @@
 # Skills 뱃지
 --->
 
-# 💙
+# 💙Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellen310)](https://github.com/anuraghazra/github-readme-stats)
 
 
-# 💛
+# 💛 Solved.ac Tier
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ellen310)](https://solved.ac/ellen310/)
 

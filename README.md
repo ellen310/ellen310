@@ -3,7 +3,7 @@
 
 # 🌞 Hey, It's Yeji!
 
-- 👀 I’m interested in AR, VR Development and Game Development
+- 👀 I’m interested in Cloud Service and AR/VR these days!
 - 📖 BLOG: https://crayeji.tistory.com/
 - ✉️ Contacts: crayeji@gmail.com
 

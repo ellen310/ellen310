@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in Cloud Service and AR/VR these days!
 - 📖 BLOG: https://crayeji.tistory.com/
-- ✉️ Contacts: crayeji@gmail.com
+- ✉️ Contacts: ellen10735@gmail.com
 
  
  # 💚 Career

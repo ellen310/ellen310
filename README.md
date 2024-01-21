@@ -16,7 +16,7 @@
 | Research | May, 2022 ~ Aug, 2022 | AR scientific experiment development for highschool students | Soongeui Girl's high School, Korea National University of Education |
 | Study abroad | Aug, 2022 ~ Dec, 2022 | Exchange Student in the United States | University of Central Missouri |
 | Project | Sep, 2022 ~ April, 2023| Interactive Movie Development | HARDTACK-Sangmyung University |
-| Project | Jan, 2024 ~ | NAVERCloudCamp | NAVERCloud, BitCamp, Magicecole |
+| Project | Jan, 2024 ~ | NAVERCloudCamp | NAVERCloud, BITCamp, Magicecole |
 
 <!--- | Mentoring & Prize | Mar, 2020 ~ June 2020 | C Language Mentoring to freshmen and Grand Prize in the achievement contest | Sangmyung University | ---!>
 <!--

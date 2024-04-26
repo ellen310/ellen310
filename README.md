@@ -30,7 +30,7 @@
 | Study abroad | Aug, 2022 ~ Dec, 2022 | Exchange Student in the United States | University of Central Missouri |
 | Project | Sep, 2022 ~ April, 2023| Interactive Movie Development | HARDTACK |
 | Research | Mar, 2023 ~ Aug, 2023 | Utilizing Plan Detection Technology based on Actual Physical Environment for Classroom Experiments - Best Paper Awards | KIEE |
-| bootcamp | Jan, 2024 ~ July, 2024 | NAVERCloudCamp | NAVERCloud, BITCamp, Magicecole |
+| Bootcamp | Jan, 2024 ~ July, 2024 | NAVERCloudCamp | NAVERCloud, BITCamp, Magicecole |
 
 <!--- | Mentoring & Prize | Mar, 2020 ~ June 2020 | C Language Mentoring to freshmen and Grand Prize in the achievement contest | Sangmyung University | ---!>
 <!--

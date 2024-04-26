@@ -1,7 +1,7 @@
 <!--![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=15&section=header&text=)-->
 
 
-# 🌞 Hey, It's Yeji!🤍
+# 🌞 Hey, It's Yeji 🤍
 <!-- 
 - 👀 I’m interested in Cloud Service and AR/VR these days!
 -->

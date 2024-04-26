@@ -25,7 +25,7 @@
 | Type | Date | Contents | Organization |
 | ------ | ------ | ------ | ------ |
 | Project | Jan, 2021 ~ Nov, 2021 | AR, VR scientific experiment development - Hanium Award 2021 | IITP |
-| R & D | May, 2022 ~ Aug 2022 | **[HandiLAB]** <br/>AR scientific experiment development for highschool students | Soongeui Girl's high School, Korea National University of Education |
+| R&D | May, 2022 ~ Aug 2022 | **[HandiLAB]** <br/>AR scientific experiment development for highschool students | Soongeui Girl's high School, Korea National University of Education |
 | Project | Sep, 2022 ~ April, 2023| **[Loop]** <br/>Interactive Movie Development | HARDTACK |
 | Project | Mar, 2023 ~ Nov, 2023| **[SeaGaurd]** <br/>In-ship fire response training solution through VR | WEKIT |
 | Research | Mar, 2023 ~ Aug, 2023 | Utilizing Plan Detection Technology based on Actual Physical Environment for Classroom Experiments - Best Paper Awards | KIEE |

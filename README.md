@@ -9,6 +9,9 @@
 - 📖 BLOG: https://crayeji.tistory.com/
 - ✉️ Contacts: ellen10735@gmail.com
 
+# 💙
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellen310)](https://github.com/anuraghazra/github-readme-stats)
+
  <!-- 
  # 💚 Career
 | Type | Date | Contents | Organization |
@@ -19,7 +22,7 @@
 | Study abroad | Aug, 2022 ~ Dec, 2022 | Exchange Student in the United States | University of Central Missouri |
 | Project | Sep, 2022 ~ April, 2023| Interactive Movie Development | HARDTACK-Sangmyung University |
 | Project | Jan, 2024 ~ July, 2024| NAVERCloudCamp | NAVERCloud, BITCamp, Magicecole |
--->
+
 
  # 💚 
 | Type | Date | Contents | Organization |
@@ -31,15 +34,14 @@
 | Research | Mar, 2023 ~ Aug, 2023 | Utilizing Plan Detection Technology based on Actual Physical Environment for Classroom Experiments - Best Paper Awards | KIEE |
 | Bootcamp | Jan, 2024 ~ July, 2024 | NAVERCloudCamp | NAVERCloud, BITCamp, Magicecole |
 
-<!--- | Mentoring & Prize | Mar, 2020 ~ June 2020 | C Language Mentoring to freshmen and Grand Prize in the achievement contest | Sangmyung University | ---!>
-<!--
-# Skills 뱃지
---->
-
-# 💙
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellen310)](https://github.com/anuraghazra/github-readme-stats)
+ | Mentoring & Prize | Mar, 2020 ~ June 2020 | C Language Mentoring to freshmen and Grand Prize in the achievement contest | Sangmyung University | 
+ 
+ ---!>
 
 
+
+
+ <!-- 
 # 💛 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ellen310)](https://solved.ac/ellen310/)
-
+ ---!>
